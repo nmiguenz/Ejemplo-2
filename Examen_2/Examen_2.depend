@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1528563944 source:f:\usuarios\alumno\escritorio\examen_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"parser.h"
+	"destinatarios.h"
+
+1528559313 rios.h"
+
+1528563882 f:\usuarios\alumno\escritorio\examen_2\arraylist.h
+
+1529016404 f:\usuarios\alumno\escritorio\examen_2\parser.h
+
+1528559313 f:\usuarios\alumno\escritorio\examen_2\destinatarios.h
+
+1528564181 source:f:\usuarios\alumno\escritorio\examen_2\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1528564181 .h"
+
+1528559313 source:f:\usuarios\alumno\escritorio\examen_2\destinatarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"destinatarios.h"
+
+1529534196 source:/home/nmiguenz/Escritorio/mati/Examen_2/ArrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1528563882 /home/nmiguenz/Escritorio/mati/Examen_2/ArrayList.h
+
+1529534255 source:/home/nmiguenz/Escritorio/mati/Examen_2/destinatarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"destinatarios.h"
+
+1528559313 /home/nmiguenz/Escritorio/mati/Examen_2/destinatarios.h
+
+1529536429 source:/home/nmiguenz/Escritorio/mati/Examen_2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"parser.h"
+	"destinatarios.h"
+
+1529016404 /home/nmiguenz/Escritorio/mati/Examen_2/parser.h
+
+1529017488 source:/home/nmiguenz/Escritorio/mati/Examen_2/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"destinatarios.h"
+
